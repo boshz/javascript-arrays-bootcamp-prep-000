@@ -40,6 +40,6 @@ function destructivelyRemoveElementFromEndOfArray(array) {
 }
 
 function removeElementFromEndOfArray(array) {
-  
-  return array.slice(-1)
+  var quixmix = array.slice(-1)
+  return quixmix
 }
